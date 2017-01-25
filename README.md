@@ -1,8 +1,6 @@
-# Frogs and Fireflies by EricOP and Ellie
+# Frogs and Fireflies by EricOP and Ellie: *This games got hop!*
 
-​	*This games got hop!*
-![image](https://cloud.githubusercontent.com/assets/5218249/22292458/4b0dcb28-e2d9-11e6-9271-8f9413892b74.png)
-
+![image](https://cloud.githubusercontent.com/assets/5218249/22292510/9c2e982a-e2d9-11e6-957f-61a271e99fdf.png)
 
 ## Game play
 

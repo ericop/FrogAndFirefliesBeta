@@ -1,0 +1,30 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5450 (ID=0x68f9)
+    Vendor:   ATI
+    VRAM:     1010 MB
+    Driver:   15.301.1201.0
+Begin MonoManager ReloadAssembly
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.863 seconds
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: K:\Courses\2017-Spring\ITC383-morel1a\22319890\johns7ed\Project1\FrogsAndFirefliesByEopAndEllie_Windows_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.410948 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3384 -> priority: 1 
+  Thread -> id: 1f78 -> priority: 1 
